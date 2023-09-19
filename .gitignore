@@ -1,20 +1,21 @@
 
 ###> symfony/framework-bundle ###
-/.env.local
-/.env.local.php
-/.env.*.local
-/config/secrets/prod/prod.decrypt.private.php
-/public/bundles/
-/var/
-/vendor/
+mysneakers/.env.local
+mysneakers/.env.local.php
+mysneakers/.env.*.local
+mysneakers/config/secrets/prod/prod.decrypt.private.php
+mysneakers/public/bundles/
+mysneakers/var/
+mysneakers/vendor/
 ###< symfony/framework-bundle ###
 
 ###> phpunit/phpunit ###
-/phpunit.xml
+mysneakers/phpunit.xml
 .phpunit.result.cache
+mysneakers/.phpunit.result.cache
 ###< phpunit/phpunit ###
 
 ###> symfony/phpunit-bridge ###
 .phpunit.result.cache
-/phpunit.xml
+mysneakers/phpunit.xml
 ###< symfony/phpunit-bridge ###
